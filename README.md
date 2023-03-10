@@ -27,7 +27,7 @@ Actualmente me encuentro cursando el bootcamp de 4Geeks Academy por lo que esta 
 ***
 ## 3. Formación
 
-Soy egresado de Liceo técnico en la especialidad de electrónica dígital, estudié Ingenieria en electrónica en la Universidad Tecnológica Metropolitana UTEM aunque no completé mis estudio allí fue una buena base y acualmente estou cursando el Bootcamp de Full Stack Developer en 4Geeks Academy Chile.
+Soy egresado de Liceo técnico en la especialidad de electrónica dígital, estudié Ingenieria en electrónica en la Universidad Tecnológica Metropolitana UTEM aunque no completé mis estudio allí fue una buena base y acualmente estoy cursando el Bootcamp de Full Stack Developer en 4Geeks Academy Chile.
 
 ***
 ## 4. Colaboraciones
