@@ -1,10 +1,12 @@
+<img url="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9fb4ebe8-09ac-4198-b78e-9119b444988a/Tips_to_Drive_Traffic_to_Your_Blog.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230310%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230310T154450Z&X-Amz-Expires=86400&X-Amz-Signature=36a98658da1a05c66d7b2c5b7ca64f89079bc8eea22c96b227ac724f8c730a6b&X-Amz-SignedHeaders=host&x-id=GetObject" >
+
 # 😄 Hola Gente!!
 ***
 ## Indice de contenido
-1. <a name="about_me">Quién soy</a>
-2. <a name="technologies">Tecnologías</a>
-3. <a name="training">Formación</a>
-4. <a name="collaboration">Collaboration</a>
+1. Quién soy
+2. Tecnologías
+3. Formación
+4. Collaboration
 5. <a name="faqs">FAQs</a>
 ***
 ## 1. Quién soy
