@@ -14,7 +14,7 @@
 ***
 ## 1. Quién soy
 
-Mi nombre es Felix Pacheco Lobos, un enamorado de la tecnología desde mi primera consola, un Atari 800XE... Sip... Un Atari dije...
+Mi nombre es Félix Pacheco Lobos, un enamorado de la tecnología desde mi primera consola, un Atari 800XE... Sip... Un Atari dije...
 
 ***
 ## 2. Tecnologías
@@ -22,7 +22,7 @@ Mi nombre es Felix Pacheco Lobos, un enamorado de la tecnología desde mi primer
 Actualmente me encuentro cursando el bootcamp de 4Geeks Academy por lo que esta sección esta en construcción.
 
 - HTML5, CSS y Bootstrap
-- Javascript
+- Javascript y React.
 - Insertar acá nuevos conocimientos...
 
 ***
