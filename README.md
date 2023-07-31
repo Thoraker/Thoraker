@@ -40,7 +40,4 @@ Aún no realizo proyectos en conjunto, almenos ninguno digno de ser mencionado.
 ***
 ## FAQs
 
-- ¿Y quién es él?
 
-
-- ¿En qué lugar se enamoró de tí?
