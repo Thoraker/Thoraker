@@ -14,18 +14,24 @@
 ***
 ## 1. Quién soy
 
-Mi nombre es Félix Pacheco Lobos, un enamorado de la tecnología desde mi primera consola, un Atari 800XE... Sip... Un Atari dije, no soy viejo soy... vintage.
+Mi nombre es Félix Pacheco Lobos, un enamorado de la tecnología desde mi primera consola, un Atari 800XE (Un Atari dije, no soy viejo soy... vintage), esta consola venia con un libro lleno de texto incomprensible que si lo escribias, cosas raras pasaban, como un cohete que se disparaba al espacio o fuegos arttificiales en la tv, fueron mis primeros codigos sin saber que eran códigos.
+
+Ahora mas de 20 años después decidí convertir mi hobby en mi forma de vida.
 
 ***
 ## 2. Tecnologías
 
-Actualmente me encuentro cursando el bootcamp de 4Geeks Academy por lo que esta sección esta en construcción.
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
 
-- HTML5, CSS y Javascript.
-- React y Bootstrap.
-- Python.
-- Flask y SqlAlchemy.
-- Insertar acá nuevos conocimientos...
+Egresado recientemente del bootcamp de 4Geeks Academy como Desarrollador Full Stack donde aprendimos:
+
+- HTML5, CSS y Bootstrap.
+- Javascript, React y REST API.
+- Python, Flask y SqlAlchemy.
+- SQL y Bases de datos relacionales.
+- Git Y Github.
+
+Actualmente me encuentro aprendiendo TypeScript de forma actodidacta.
 
 ***
 ## 3. Formación
