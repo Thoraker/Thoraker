@@ -38,23 +38,14 @@ Acá mi Linkedin
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thoraker&layout=compact)
 
-
-- HTML5, CSS y Bootstrap.
-- Javascript, React y REST API.
-- Python, Flask y SqlAlchemy.
-- SQL y Bases de datos relacionales.
-- Git Y Github.
-
 Actualmente me encuentro aprendiendo TypeScript de forma actodidacta.
-
-
 
 ***
 ## 3. Formación
@@ -62,11 +53,7 @@ Actualmente me encuentro aprendiendo TypeScript de forma actodidacta.
 Egresado recientemente de 4Geeks Academy como Desarrollador Full-Stack, con mas de 10 años de experiencia en Atención al cliente de los cuales los ultimos 7 fueron como Backoffice donde nuestra labor era la resolución de problemas y de conflictos.
 
 ***
-## 4. Colaboraciones
 
-Aún no realizo proyectos en conjunto, almenos ninguno digno de ser mencionado.
-
-***
 ## FAQs
 
 Pregunten lo que quieran, soy un libro abierto.
