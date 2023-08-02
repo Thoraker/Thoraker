@@ -8,7 +8,6 @@
 1. Quién soy
 2. Tecnologías
 3. Formación
-4. Colaboraciones
 5. FAQs
 
 ***
