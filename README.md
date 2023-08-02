@@ -2,7 +2,6 @@
 
 # 😄 Hola Gente!!  
 [![Thoraker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thoraker)](https://github.com/Thoraker/READMI)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thoraker)](https://github.com/Thoraker/READMI)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thoraker&layout=compact)
 
 ## Indice de contenido
