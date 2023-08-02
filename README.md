@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/75093385/224395908-5a553576-1c04-471e-ab6d-a080fb8c8f87.gif" width="400" height="300" align="right" />
 
 # 😄 Hola Gente!!  
-
+[![Thoraker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thoraker)](https://github.com/Thoraker/github-readme-stats)
 
 ## Indice de contenido
 
