@@ -19,9 +19,11 @@ Soy alegre y me encanta aprender nuevas tecnologías, cuando algo no me parece l
 
 Ahora mas de 20 años después decidí convertir mi pasión en mi forma de vida.
 
-Acá mi Linkedin 
+Pueden contactarme acá
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <a href="https://www.linkedin.com/in/felix-pacheco-lobos/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
 </a>
 
 ***
