@@ -27,9 +27,10 @@ Mira mi Linkedin <a href="https://www.linkedin.com/in/felix-pacheco-lobos/">
 ***
 ## 2. Tecnologías
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/flask/flask-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 
-Egresado recientemente del bootcamp de 4Geeks Academy como Desarrollador Full Stack donde aprendimos:
+
+
 
 - HTML5, CSS y Bootstrap.
 - Javascript, React y REST API.
@@ -42,7 +43,7 @@ Actualmente me encuentro aprendiendo TypeScript de forma actodidacta.
 ***
 ## 3. Formación
 
-Soy egresado de Liceo técnico en la especialidad de electrónica dígital, estudié Ingenieria en electrónica en la Universidad Tecnológica Metropolitana UTEM aunque no completé mis estudio allí fue una buena base y acualmente estoy cursando el Bootcamp de Full Stack Developer en 4Geeks Academy Chile.
+Egresado recientemente de 4Geeks Academy como Desarrollador Full-Stack 
 
 ***
 ## 4. Colaboraciones
