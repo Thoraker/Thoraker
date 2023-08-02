@@ -14,14 +14,28 @@
 ***
 ## 1. Quién soy
 
+<a href="https://www.linkedin.com/in/felix-pacheco-lobos/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40">
+</a>
+
 Mi nombre es Félix Pacheco Lobos, un enamorado de la tecnología desde mi primera consola, un Atari 800XE (Un Atari dije, no soy viejo soy... vintage), esta consola venia con un libro lleno de texto incomprensible que si lo escribias, cosas raras pasaban, como un cohete que se disparaba al espacio o fuegos arttificiales en la tv, fueron mis primeros codigos sin saber que eran códigos.
 
-Ahora mas de 20 años después decidí convertir mi hobby en mi forma de vida.
+Soy alegre y me encanta aprender nuevas tecnologías, cuando algo no me parece lógico no me quedo tranquilo hasta saber el cómo y el porqué.
+
+Ahora mas de 20 años después decidí convertir mi pasión en mi forma de vida.
 
 ***
 ## 2. Tecnologías
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 
 Egresado recientemente del bootcamp de 4Geeks Academy como Desarrollador Full Stack donde aprendimos:
 
