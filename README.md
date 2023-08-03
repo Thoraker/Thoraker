@@ -48,7 +48,7 @@ Pueden contactarme acá
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thoraker&layout=compact)
 
-Actualmente me encuentro aprendiendo TypeScript de forma actodidacta.
+Actualmente me encuentro aprendiendo TypeScript y Ruby on Rails de forma actodidacta.
 
 ***
 ## 3. Formación
