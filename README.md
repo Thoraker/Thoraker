@@ -13,7 +13,7 @@
 ***
 ## 1. Quién soy
 
-Mi nombre es Félix Pacheco Lobos, un enamorado de la tecnología desde mi primera consola, un Atari 800XE (Un Atari dije, no soy viejo soy... vintage), esta consola venia con un libro lleno de texto incomprensible que si lo escribias, cosas raras pasaban, como un cohete que se disparaba al espacio o fuegos arttificiales en la tv, fueron mis primeros codigos sin saber que eran códigos.
+Mi nombre es Félix Pacheco Lobos, un enamorado de la tecnología desde mi primera consola, un Atari 800XE (Un Atari dije, no soy viejo soy... vintage), esta consola venia con un libro lleno de texto incomprensible que si lo escribias, cosas raras pasaban, como un cohete que se disparaba al espacio o fuegos artificiales en la tv, fueron mis primeros codigos sin saber que eran códigos.
 
 Soy alegre y me encanta aprender nuevas tecnologías, cuando algo no me parece lógico no me quedo tranquilo hasta saber el cómo y el porqué.
 
