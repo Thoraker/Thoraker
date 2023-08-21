@@ -52,6 +52,7 @@ Pueden contactarme acá
 Actualmente me encuentro estudiando de forma actodidacta.
 
 ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D?style=for-the-badge&logo=Ruby)
 
 ***
