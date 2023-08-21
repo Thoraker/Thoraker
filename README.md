@@ -46,7 +46,7 @@ Pueden contactarme acá
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thoraker&layout=compact)
+![Top Langs](https://github-readme-stats-tau-sable-93.vercel.app/?username=Thoraker&layout=compact)
 
 Actualmente me encuentro aprendiendo TypeScript y Ruby on Rails de forma actodidacta.
 
