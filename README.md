@@ -49,7 +49,8 @@ Pueden contactarme acá
 
 ![Top Langs](https://github-readme-stats-tau-sable-93.vercel.app/api/top-langs/?username=Thoraker&layout=compact)
 
-Actualmente me encuentro aprendiendo TypeScript y Ruby on Rails de forma actodidacta.
+Actualmente me encuentro estudiando de forma actodidacta.
+
 ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D?style=for-the-badge&logo=Ruby)
 
