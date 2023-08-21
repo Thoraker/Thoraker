@@ -36,6 +36,7 @@ Pueden contactarme acá
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=Vitest&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -49,6 +50,8 @@ Pueden contactarme acá
 ![Top Langs](https://github-readme-stats-tau-sable-93.vercel.app/api/top-langs/?username=Thoraker&layout=compact)
 
 Actualmente me encuentro aprendiendo TypeScript y Ruby on Rails de forma actodidacta.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Vitest&logoColor=TypeScript)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D?style=for-the-badge&logo=Ruby)
 
 ***
 ## 3. Formación
