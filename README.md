@@ -21,7 +21,7 @@ Ahora mas de 20 años después decidí convertir mi pasión en mi forma de vida.
 
 Pueden contactarme acá
 
-<a href="mailto:pachecolobos.felix@gmail.com">
+<a href="mailto:thoraker.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" >
 </a>
 <a href="https://www.linkedin.com/in/felix-pacheco-lobos/">
