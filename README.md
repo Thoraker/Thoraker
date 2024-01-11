@@ -27,6 +27,9 @@ Pueden contactarme acá
 <a href="https://www.linkedin.com/in/felix-pacheco-lobos/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" >
 </a>
+<a href="https://img.shields.io/badge/porfolio-%238511FA.svg?style=for-the-badge&logo=vercel&logoColor=white/">
+  <img src="https://img.shields.io/badge/porfolio-%238511FA.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Porfolio">
+</a>
 
 ***
 ## 2. Tecnologías
@@ -52,7 +55,6 @@ Pueden contactarme acá
 Actualmente me encuentro estudiando de forma actodidacta.
 
 ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D?style=for-the-badge&logo=Ruby)
 
 ***
 ## 3. Formación
