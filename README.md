@@ -27,7 +27,7 @@ Pueden contactarme acá
 <a href="https://www.linkedin.com/in/felix-pacheco-lobos/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" >
 </a>
-<a href="https://img.shields.io/badge/porfolio-%238511FA.svg?style=for-the-badge&logo=vercel&logoColor=white/">
+<a href="https://vercel.com/thoraker/porfolio">
   <img src="https://img.shields.io/badge/porfolio-%238511FA.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Porfolio">
 </a>
 
