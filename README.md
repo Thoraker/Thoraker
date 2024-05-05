@@ -57,6 +57,7 @@ Pueden contactarme acá
 Actualmente me encuentro estudiando de forma actodidacta.
 
 ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
 ***
 ## 3. Formación
